@@ -38,3 +38,9 @@ out/
 
 ### Custom ###
 .env
+
+# H2 Database
+*.db
+*.mv.db
+*.trace.db
+*.lock.db
